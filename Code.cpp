@@ -23,6 +23,7 @@ int main()
 
     printf("A=%f ", a);
     printf("B=%f ", b);
+    printf("Hello Worlddd!");
     system("pause");
 }
 
