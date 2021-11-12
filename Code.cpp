@@ -24,6 +24,7 @@ int main()
     printf("A=%f ", a);
     printf("B=%f ", b);
     printf("Hello Worlddd!");
+    printf("Here we go again)");
     system("pause");
 }
 
